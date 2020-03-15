@@ -1,6 +1,7 @@
+  p.double {border-style: double;}
 body {
   background-color: lightblue;
-  p.double {border-style: double;}
+  text-align: center;
 }
 
 h1 {
@@ -11,4 +12,5 @@ h1 {
 p {
   font-family: verdana;
   font-size: 20px;
+  text-align: center;
 }
